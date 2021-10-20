@@ -8,7 +8,16 @@ table {
     border-right: #333;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-tr th{
+table tr th{
     background-image: url("imagenes/fondo_gris.gif");
+}
+table tr th:nth-child(2){
+    background-image: url("imagenes/fondo_gris.gif");
+}
+table tr th:nth-child(3){
+    background-image: url("imagenes/fondo_gris.gif");
+}
+
+table tr:nth-child(even){
+    background-color: #FFFFCC;
 }
