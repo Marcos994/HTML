@@ -1,0 +1,13 @@
+body{
+    background-color: navajowhite;
+}
+h1,h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: blue;
+}

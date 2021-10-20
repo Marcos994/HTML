@@ -1,0 +1,55 @@
+h1{
+    color: rgb(27, 150, 113);
+    font-size: 24pt;
+}
+p{
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p strong{
+    color : red
+}
+p a{
+    color : red;
+}
+p a em{
+    color: blue;
+}
+.destacado{
+    color:rgb(223, 174, 39);
+}
+h2{
+    color:blue;
+}
+
+table {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+    width: 350px;
+}
+table caption{
+    color:transparent
+}
+table tr,th,td{
+    border: 1px solid #000;
+}
+.especial, td strong{
+    color:rgb(255, 175, 71)
+}
+tfoot,tbody th{
+    color: red
+}
+tbody{
+    font-size: 18pt;
+    color:rgb(54, 128, 20)
+}
+#adicional{
+    color:rgb(174, 190, 30)
+}
+#especial{
+    color:rgb(240, 56, 169)
+} 
+div a{
+    color:green
+}

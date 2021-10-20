@@ -1,0 +1,14 @@
+table {
+    width: 300pt;
+    text-align: center;
+    border-collapse: collapse;
+    border-bottom: #333;
+    border-top: #333;
+    border-left: #333;
+    border-right: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr th{
+    background-image: url("imagenes/fondo_gris.gif");
+}

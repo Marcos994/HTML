@@ -1,0 +1,16 @@
+body{
+    background: wheat;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    background: #0b19e6;
+    color:#FFF;
+}
+a:active{
+    color:black;
+}
