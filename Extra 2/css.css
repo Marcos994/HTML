@@ -1,0 +1,35 @@
+#contenedor {
+
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #naranja {
+    background-color: orange;
+    margin: auto;
+  }
+  
+  #verde {
+    background-color: rgb(231, 231, 231);
+    height: 400px;
+    width: auto ;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+  h1{
+    font-family: Verdana;
+  }
+  
+ #btnCancel{
+   font-weight: bold;
+ }
+ #btnSubmit{
+   font-weight: bold;
+ }
